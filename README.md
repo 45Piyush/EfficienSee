@@ -1,17 +1,35 @@
+
 # EfficienSee
 
-# Installation
- 1. clone the repository into your desired web server.
- 2. create database name 'smarthr'
- import the sql file inside the database folder
- run it on the browser and you are good to go.
+A Comprehensive Employee-HR Dashboard System which helps in streamlining work, simplifying tasks, and promoting engagement for HR and Employees. 
+For employees easy access to payslips and leave requests, meanwhile provides invaluable insights for HR of the Employees. 
+Empower your workforce and enhance productivity today.
 
- # Login Credentials
- `username`: `vednande`
- 'password': `vednande`
+## Prerequisites
 
-# Note
- 1. a huge part of the project is still under development.most of it is still just html files and no backend has been added to it yet so feel free to fork it and contribute.And don't forget to star the repository.
+Before running this project, ensure you have the following software installed on your system:
 
-# The whole project is under a complete rewrite. I am completely writing it with the laravel framework.with some new features.
+- [XAMPP](https://www.apachefriends.org/download.html) (Apache, MySQL, PHP, and Perl)
 
+## Installation
+
+Follow these steps to set up and run the project on your local machine:
+
+1. Download and install [XAMPP](https://www.apachefriends.org/download.html) for your operating system.
+
+2. Clone this repository or download the project files to your local machine.
+
+3. Extract the project files (if downloaded as a ZIP) and place it to the `htdocs` folder inside your XAMPP installation directory.
+    The typical path is:
+   - Windows: `C:\xampp\htdocs`
+   - macOS: `/Applications/XAMPP/xamppfiles/htdocs`
+   - Linux: `/opt/lampp/htdocs`
+
+5. Start the XAMPP Control Panel and start the Apache and MySQL services.
+
+6. Create a database name 'smarthr', import the sql file inside the Database folder from repositories.
+
+7. Open your web browser and navigate to `http://localhost/project-folder-name` (replace `project-folder-name` with the actual name of the folder containing your project files).
+
+About
+EfficienSee : http://efficiensee.infinityfreeapp.com/efficiensee/ 
