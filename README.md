@@ -1,2 +1,17 @@
-# efficiensee
-EfficienSee : A Comprehensive Employee-HR Dashboard System which helps in streamlining work, simplifying tasks, and promoting engagement for HR and Employees. For employees easy access to payslips and leave requests, meanwhile provides invaluable insights for HR of the Employees. Empower your workforce and enhance productivity today.
+# EfficienSee
+
+# Installation
+ 1. clone the repository into your desired web server.
+ 2. create database name 'smarthr'
+ import the sql file inside the database folder
+ run it on the browser and you are good to go.
+
+ # Login Credentials
+ `username`: `vednande`
+ 'password': `vednande`
+
+# Note
+ 1. a huge part of the project is still under development.most of it is still just html files and no backend has been added to it yet so feel free to fork it and contribute.And don't forget to star the repository.
+
+# The whole project is under a complete rewrite. I am completely writing it with the laravel framework.with some new features.
+
